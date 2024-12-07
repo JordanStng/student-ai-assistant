@@ -1,6 +1,7 @@
 # student-ai-assistant
 Unternehmenssoftware AI Projekt
 
-# authoren
+# autoren
 
 Jordan
+Thao
